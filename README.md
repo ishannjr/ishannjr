@@ -3,7 +3,7 @@
 💻 Software Developer | 🌐 Full-Stack Enthusiast | ☁️ Cloud Learner
 
 I’m passionate about building **scalable web applications, cloud-native systems, and intuitive user experiences.**  
-Currently working with **ASP.NET Core MVC + DevExtreme/DevExpress** and exploring **React.js, Angular, and AWS**.
+Currently working with **React.js, Angular, and AWS**.
 
 ---
 
