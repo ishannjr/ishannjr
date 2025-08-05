@@ -34,14 +34,6 @@ Currently working with **React.js, Angular, and AWS**.
 
 ---
 
-## 🔭 Featured Projects
-
-- 🔐 **Crypto Wallet Extension** – React + Blockchain | Native token transfers with event-driven architecture
-- 📊 **ASP.NET Core Dashboard** – Identity + Microsoft Graph + DevExpress visualizations
-- 📩 **Outlook Email Drag-and-Drop Upload** – ASP.NET Core + Azure + Dropbox
-- 🛠 **Creational Design Patterns in C++** – Simplified examples (Factory, Singleton, Builder, etc.)
-
----
 
 ## 🌱 Currently Exploring
 
