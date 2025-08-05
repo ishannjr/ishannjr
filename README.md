@@ -43,13 +43,6 @@ Currently working with **ASP.NET Core MVC + DevExtreme/DevExpress** and explorin
 
 ---
 
-## 📊 GitHub Stats
-
-![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishaanumesh&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaanumesh&layout=compact&theme=radical)
-
----
-
 ## 🌱 Currently Exploring
 
 - Building **scalable cloud-native systems** on AWS
@@ -60,8 +53,7 @@ Currently working with **ASP.NET Core MVC + DevExtreme/DevExpress** and explorin
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-mandliya-956ab2215/)
 
 ---
 
